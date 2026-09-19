@@ -69,6 +69,12 @@ Astro • Static-First • مؤمَّن بطبقات فحص أوتوماتيكي
 
 ---
 
+
+---
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Yasmeena18/Yasmeena18/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 <div align="center">
 
 **قاعدتي:** كود نضيف قبل السرعة • أمان من أول سطر • كل مشروع بيتسلم متفحص ومؤمَّن
