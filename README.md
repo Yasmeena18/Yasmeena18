@@ -6,15 +6,16 @@
 
 <br/>
 
-```python
-class Yasmine:
-    role       = "Software Engineer — Backend"
-    founder_of = "NIVORA Software Services"
-    stack      = ["Python", "JavaScript", "APIs", "Automation", "Web"]
-    principles = ["clean code", "security first", "ship tested"]
-```
+## About Me
+
+- **Software Engineer** focused on backend systems — Python, APIs, and automation that runs in production
+- **Founder of NIVORA** — a software services studio delivering web platforms and custom systems for clients
+- **CS student (class of 2027)** — combining academic foundations with real client work
+- I care about three things: **clean code, security from the first line, and shipping tested work**
 
 <br/>
+
+## Tech Stack
 
 <div align="center">
 <a href="https://skillicons.dev">
@@ -23,6 +24,8 @@ class Yasmine:
 </div>
 
 <br/>
+
+## GitHub Analytics
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Yasmeena18&show_icons=true&bg_color=0D1117&hide_border=true&title_color=A98A5F&icon_color=A98A5F&text_color=E6E1D9" alt="stats" />
