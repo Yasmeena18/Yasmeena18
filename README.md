@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A98A5F&center=true&vCenter=true&repeat=true&width=820&height=100&lines=Software+Engineer+%E2%80%A2+Backend+Focus;Founder+of+NIVORA+Software+Services;Python+%E2%80%A2+APIs+%E2%80%A2+Automation+%E2%80%A2+Web;CS+Student+(2027)" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A98A5F&center=true&vCenter=true&repeat=true&width=780&height=90&lines=Yassmeena+Osama;CS+Student+%E2%80%A2+AI+%E2%80%A2+Web+Development+%E2%80%A2+Automation" alt="typing" />
 
 </div>
 
@@ -8,11 +8,15 @@
 
 ## About Me
 
-- **Software Engineer** focused on backend systems — Python, APIs, and automation that runs in production
-- **Founder of NIVORA** — a software services studio delivering web platforms and custom systems for clients
-- **CS student (class of 2027)** — combining academic foundations with real client work
-- Built a **voice-controlled robot (ESP32 + Gemini AI)** — where hardware meets cloud AI
-- I care about three things: **clean code, security from the first line, and shipping tested work**
+> I'm a Computer Science student with a growing focus on **AI, web development, automation, and digital design**.
+>
+> My experience combines technical and creative work. I've previously developed a **voice-controlled ESP32 robot integrated with Gemini**, and worked in HR recruitment and content writing, which strengthened my communication, problem-solving, and organizational skills.
+>
+> Currently, I work on web development and graphic design while developing my skills in automation and exploring practical ways to integrate AI into my workflow effectively.
+>
+> My long-term focus is **AI — particularly building AI agents and developing practical AI solutions**. I'm committed to continuously expanding my expertise and keeping pace with the rapid evolution of AI technologies.
+
+*(— my LinkedIn bio, verbatim)*
 
 <br/>
 
@@ -22,6 +26,13 @@
 |---|---|
 | 🤖 [**Telegram Shop Bot**](https://github.com/Yasmeena18/telegram-shop-bot) | Full storefront bot in **pure Python** — catalog, orders, AI inquiries, WhatsApp alerting chain, 25 tests |
 | 📊 [**Sales Insights Dashboard**](https://github.com/Yasmeena18/sales-insights-dashboard) | Messy sales data into an **offline interactive dashboard** (pandas + plotly), full cleaning pipeline, 28 tests |
+| 📝 [**Claude 101 — Course Notes**](https://github.com/Yasmeena18/claude-101-notes) | My full takeaways from Anthropic's Claude 101 — in Arabic, with post images |
+
+<br/>
+
+## Skills
+
+`Python` `Automation` `Web Development` `Graphic Design` `Notion` `Content Writing` `AI Integration`
 
 <br/>
 
@@ -57,8 +68,7 @@
 <br/>
 
 <div align="center">
-  <b>Currently building:</b> automation systems &amp; analytics dashboards that turn repetitive work into code<br/>
-  Python • Telegram Bots • Data Pipelines • Notion Systems
+  <b>Currently:</b> building AI agents and practical AI solutions
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Yasmeena18&style=flat-square&color=A98A5F" alt="views" />
 </div>
