@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A98A5F&center=true&vCenter=true&repeat=true&width=820&height=100&lines=Software+Engineer+•+Backend+Focus;Founder+of+NIVORA+Software+Services;Python+•+APIs+•+Automation+•+Web;CS+Student+(2027)" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A98A5F&center=true&vCenter=true&repeat=true&width=820&height=100&lines=Software+Engineer+%E2%80%A2+Backend+Focus;Founder+of+NIVORA+Software+Services;Python+%E2%80%A2+APIs+%E2%80%A2+Automation+%E2%80%A2+Web;CS+Student+(2027)" alt="typing" />
 
 </div>
 
@@ -9,9 +9,9 @@
 ## About Me
 
 - **Software Engineer** focused on backend systems — Python, APIs, and automation that runs in production
-- **Founder of NIVORA** — — software services studio delivering web platforms and custom systems for clients
+- **Founder of NIVORA** — a software services studio delivering web platforms and custom systems for clients
 - **CS student (class of 2027)** — combining academic foundations with real client work
-- Built — **voice-controlled robot (ESP32 + Gemini AI)** — where hardware meets cloud AI
+- Built a **voice-controlled robot (ESP32 + Gemini AI)** — where hardware meets cloud AI
 - I care about three things: **clean code, security from the first line, and shipping tested work**
 
 <br/>
@@ -21,14 +21,14 @@
 | Project | What it does |
 |---|---|
 | 🤖 [**Telegram Shop Bot**](https://github.com/Yasmeena18/telegram-shop-bot) | Full storefront bot in **pure Python** — catalog, orders, AI inquiries, WhatsApp alerting chain, 25 tests |
-| 📊 [**Sales Insights Dashboard**](https://github.com/Yasmeena18/sales-insights-dashboard) | Messy sales dat— — an **offline interactive dashboard** (pandas + plotly), full cleaning pipeline, 28 tests |
+| 📊 [**Sales Insights Dashboard**](https://github.com/Yasmeena18/sales-insights-dashboard) | Messy sales data into an **offline interactive dashboard** (pandas + plotly), full cleaning pipeline, 28 tests |
 
 <br/>
 
 ## Tech Stack
 
 <div align="center">
-<— href="https://skillicons.dev">
+<a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,astro,react,nodejs,git,github,vscode,linux,docker,md&theme=dark" alt="skills" />
 </a>
 </div>
@@ -57,14 +57,8 @@
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Yasmeena18/Yasmeena18/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
-<br/>
-
-<div align="center">
-  <b>Currently building:</b> automation systems & analytics dashboards that turn repetitive work into code a<br/>
-  Python — Telegram Bots — Dat— Pipelines — Notion Systems
+  <b>Currently building:</b> automation systems &amp; analytics dashboards that turn repetitive work into code<br/>
+  Python • Telegram Bots • Data Pipelines • Notion Systems
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Yasmeena18&style=flat-square&color=A98A5F" alt="views" />
 </div>
